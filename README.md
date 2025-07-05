@@ -2,7 +2,6 @@
 
 This project implements a self-learning Snake game agent using Deep Q-Learning (DQN) built with Python and PyTorch. The agent learns to play Snake from scratch through rewards and punishments without any hardcoded rules.
 
-![Snake Game](https://user-images.githubusercontent.com/your-image-url.gif)
 
 ## 🎮 Features
 
@@ -101,7 +100,3 @@ Scores and mean scores plotted during training.
 ## 🧑‍💻 Author
 
 * [Anurag Pokhariyal](https://github.com/AnuragP004)
-
-## 📝 License
-
-This project is licensed under the MIT License.
