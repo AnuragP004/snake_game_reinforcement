@@ -89,8 +89,7 @@ snake_game_rl/
 ## 📈 Example Training Plot
 
 Scores and mean scores plotted during training.
-
-![Training Plot](https://drive.google.com/file/d/1NxBoqBv4j2wBO8OOBgj3wo70TlyzyEYy/view?usp=sharing)
+![Training Plot](https://github.com/user-attachments/assets/b6a0f474-daf1-4cc4-b93c-513cb70a84a4)
 
 ## 📌 Future Improvements
 
