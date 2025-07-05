@@ -90,7 +90,7 @@ snake_game_rl/
 
 Scores and mean scores plotted during training.
 
-![Training Plot](https://user-images.githubusercontent.com/your-plot-url.png)
+![Training Plot](https://drive.google.com/file/d/1NxBoqBv4j2wBO8OOBgj3wo70TlyzyEYy/view?usp=sharing)
 
 ## 📌 Future Improvements
 
